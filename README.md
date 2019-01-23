@@ -10,7 +10,6 @@
 
 *	Einteilung von Mitschriften zuerst in Schulstufen und danach in Fächer.
     Erstellen, Umbenennen und Löschen von Schulstufen und Fächern
-    
 *	Ansicht von einer Mitschrift
   o	Inhalte sollen untereinander geordnet angezeigt werden, sodass intuitiv durch die Mitschriften gescrollt werden kann. 
 *	Neue Inhalte zur Mitschrift hinzufügen. 
