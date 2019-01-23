@@ -1,12 +1,12 @@
 # Schulorganizer_App
 
-Ziel:
+## Ziel:
   
   Der Sinn der Schulorganizer App ist eine einheitliche Übersicht über Mitschriften
   in verschiedenen Schulfächern und Schulstufen zu schaffen. 
   
   
-Soll Kriterien:
+## Soll Kriterien:
 
 *	Einteilung von Mitschriften zuerst in Schulstufen und danach in Fächer.
      Erstellen, Umbenennen und Löschen von Schulstufen und Fächern
@@ -31,10 +31,10 @@ Soll Kriterien:
   
   
   
-Kann Kriterien:
+##Kann Kriterien:
 
 •	Bilder (mittels OCR in Text umwandeln, danach einfügen)
-•	Neben Fotos und Textdokumenten können auch Hyperlinks in Form von klickbaren Schaltflächen in die Mitschrift eingebunden werden     können.
+•	Neben Fotos und Textdokumenten können auch Hyperlinks in Form von klickbaren Schaltflächen in die Mitschrift eingebunden werden          können.
  
 •	Exportieren der Mitschrift als eine PDF.
 
