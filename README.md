@@ -34,6 +34,7 @@
 ## Kann Kriterien:
 
 •	Bilder (mittels OCR in Text umwandeln, danach einfügen)
+
 •	Neben Fotos und Textdokumenten können auch Hyperlinks in Form von klickbaren Schaltflächen in die Mitschrift eingebunden werden          können.
  
 •	Exportieren der Mitschrift als eine PDF.
