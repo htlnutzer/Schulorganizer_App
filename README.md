@@ -9,7 +9,7 @@
 ## Soll Kriterien:
 
 *	Einteilung von Mitschriften zuerst in Schulstufen und danach in Fächer.
-     Erstellen, Umbenennen und Löschen von Schulstufen und Fächern
+    -- Erstellen, Umbenennen und Löschen von Schulstufen und Fächern
 *	Ansicht von einer Mitschrift
   o	Inhalte sollen untereinander geordnet angezeigt werden, sodass intuitiv durch die Mitschriften gescrollt werden kann. 
 *	Neue Inhalte zur Mitschrift hinzufügen. 
@@ -31,7 +31,7 @@
   
   
   
-##Kann Kriterien:
+## Kann Kriterien:
 
 •	Bilder (mittels OCR in Text umwandeln, danach einfügen)
 •	Neben Fotos und Textdokumenten können auch Hyperlinks in Form von klickbaren Schaltflächen in die Mitschrift eingebunden werden          können.
