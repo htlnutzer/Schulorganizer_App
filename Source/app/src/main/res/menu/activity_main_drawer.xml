@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group_books" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="2019 - 5BHWII"
+            android:icon="@drawable/ic_book"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_book"
+            android:title="2018 - 4BHWII" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_book"
+            android:title="2017 - 3BHWII" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_book"
+            android:title="2016 - 2BHWII" />
+    </group>
+
+    <group>
+        <item android:title="Subjects">
+            <menu android:id="@+id/group_subjects">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_book_open"
+                    android:title="Deutsch" />
+                <item
+                    android:id="@+id/nav_sen"
+                    android:icon="@drawable/ic_book_open"
+                    android:title="English" />
+                <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_book_open"
+                    android:title="Programmieren" />
+            </menu>
+        </item>
+    </group>
+
+    <group>
+        <item android:title="Settings">
+            <menu>
+                <item
+                    android:id="@+id/nav_edit_books"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Edit Books" />
+                <item
+                    android:id="@+id/nav_edit_subjects"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Edit Subjects" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

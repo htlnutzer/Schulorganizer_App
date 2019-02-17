@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_header"
+        android:orderInCategory="100"
+        android:title="Add Section"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_text"
+        android:orderInCategory="100"
+        android:title="Add Paragraph"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_link"
+        android:orderInCategory="100"
+        android:title="Add Link"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_image"
+        android:orderInCategory="100"
+        android:title="Add Image"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_file"
+        android:orderInCategory="100"
+        android:title="Add File"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_export_txt"
+        android:orderInCategory="100"
+        android:title="Export as HTML"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_export_json"
+        android:orderInCategory="100"
+        android:title="Export as JSON"
+    app:showAsAction="never" />
+
+
+    <item android:id="@+id/action_addBook"
+    android:orderInCategory="100"
+    android:title="New Book"
+    app:showAsAction="never" />
+
+    <item android:id="@+id/action_addSubject"
+        android:orderInCategory="100"
+        android:title="New Subject"
+        app:showAsAction="never" />
+
+</menu>
